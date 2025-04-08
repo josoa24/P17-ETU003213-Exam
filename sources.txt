@@ -1,0 +1,9 @@
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\classBase\Depense.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\classBase\DepenseService.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\classBase\Prevision.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\classBase\PrevisionService.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\servlet\DepenseServlet.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\servlet\GeneralServlet.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\servlet\MainServlet.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\model\servlet\PrevisionServlet.java 
+E:\ITU\S4\Mr_Naina\Exam\src\main\java\util\MaConnection.java 
